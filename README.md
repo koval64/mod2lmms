@@ -6,7 +6,7 @@
 
 For now it converts notes, their length and initial volume.
 
-## In `final_versions` directory you will find two examples of converted files.
+In `final_versions` directory you will find two examples of converted files.
 
 ## HOWTO covnert using linux
 
