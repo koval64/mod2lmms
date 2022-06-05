@@ -2,16 +2,16 @@
 
 
 
-# Protracker music module to lmms ( Linux Multi Media Software ) format.
+# Protracker music module to lmms ( Linux Multi Media Software ) format converter.
 
-For now it converts notes, their length and initial volume.
+For now it converts notes, their tone, length and initial volume.
 
 # Demo files
 
-In `final_versions` directory you will find two examples of converted files.
+In `final_versions` directory you will find three examples of converted files.
 Just download them and load to LMMS to listen the results.
 
-## HOWTO convert using linux
+## HOWTO convert mod file to lmms format using linux
 
 Just download or copy your favorite protracker module files to `data/` directory and run program with command:
 
@@ -19,8 +19,8 @@ Just download or copy your favorite protracker module files to `data/` directory
 
 Program will ask you which MOD file to convert.
 
-For first time it creates file with generic instrument and one track per one istrument ( max 32 tracks ).
-Load this file to LMMS end choose what intruments you like.
+For first time it creates file with generic instrument and one track per one instrument ( max 32 tracks ).
+Load this file to LMMS and choose what intruments you like.
 
 1) If you happy with result just save it and use it.
 2) If you wanna create multitrack version than save it with exactly the same name that you loaded it and with `mmp` extension.
