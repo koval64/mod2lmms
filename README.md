@@ -13,7 +13,7 @@ Just download them and load to LMMS to listen the results.
 
 ## HOWTO convert using linux
 
-Put modules files inside `data/` directory and run program with command:
+Just download or copy your favorite protracker module files to `data/` directory and run program with command:
 
 > python3 mod2lmms.py
 
