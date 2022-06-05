@@ -20,7 +20,7 @@ For first time it creates file with generic instrument and one track per one ist
 Load this file to LMMS end choose what intruments you like.
 
 1) If you happy with result just save it and use it.
-2) If you wanna create multitrack version than save it with `mmp` extension in data directory,
+2) If you wanna create multitrack version than save it with exactly the same name that you loaded with `mmp` extension.
 and run again:
 
 > python3 mod2lmms.py
