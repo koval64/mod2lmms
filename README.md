@@ -2,7 +2,7 @@
 
 
 
-#Protracker music module to lmms ( Linux Multi Media Software ) format.
+# Protracker music module to lmms ( Linux Multi Media Software ) format.
 
 For now it converts notes, their length and initial volume.
 
