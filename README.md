@@ -1,13 +1,14 @@
 
-# In `final_versions` directory you will find two examples of converted files.
 
 
 
-Protracker music module to lmms ( Linux Multi Media Software ) format.
+#Protracker music module to lmms ( Linux Multi Media Software ) format.
 
 For now it converts notes, their length and initial volume.
 
-# HOWTO covnert using linux
+## In `final_versions` directory you will find two examples of converted files.
+
+## HOWTO covnert using linux
 
 Put modules files inside `data/` directory and run program with command:
 
@@ -27,8 +28,8 @@ and run again with:
 It copies instruments from generic version in which you choosen instruments,
 but makes it more polyphonic.
 
-# In generic version there are up to 32 tracks.
-# In multitrack version there are up to 128 tracks ( 4 channels * 32 iunstruments ).
+## In generic version there are up to 32 tracks.
+## In multitrack version there are up to 128 tracks ( 4 channels * 32 iunstruments ).
 
 
 
