@@ -6,7 +6,10 @@
 
 For now it converts notes, their length and initial volume.
 
+# Demo files
+
 In `final_versions` directory you will find two examples of converted files.
+Just download them and load to LMMS to listen the results.
 
 ## HOWTO convert using linux
 
