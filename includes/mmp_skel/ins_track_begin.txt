@@ -1,0 +1,15 @@
+      <track type="0" name="Bass" solo="0" muted="0">
+        <instrumenttrack basenote="57" pitchrange="1" usemasterpitch="1" pan="0" vol="100" pitch="0" fxch="0">
+          <instrument name="sid">
+            <sid sustain2="5" sync0="0" pulsewidth0="2048" attack0="1" waveform2="2" pulsewidth1="2048" attack1="2" coarse0="-12" test0="0" waveform0="2" sustain0="6" filtered0="0" coarse1="0" sustain1="0" test1="1" release1="7" release2="5" filterMode="2" volume="15" decay2="0" sync1="0" pulsewidth2="2048" test2="1" waveform1="1" decay0="8" coarse2="0" attack2="0" filtered2="0" filterResonance="8" sync2="0" ringmod0="0" ringmod2="0" decay1="8" chipModel="1" release0="6" voice3Off="0" filtered1="0" filterFC="1024" ringmod1="0"/>
+          </instrument>
+          <eldata fcut="14000" ftype="0" fwet="0" fres="0.5">
+            <elvol att="0" hold="0" sustain="0.5" dec="0.46" pdel="0" lspd_syncmode="0" lspd_denominator="4" x100="0" amt="0" lamt="0" ctlenvamt="0" latt="0" userwavefile="" lspd="0.1" rel="0.1" lpdel="0" lspd_numerator="4" lshp="0"/>
+            <elcut att="0" hold="0.5" sustain="0.5" dec="0.5" pdel="0" lspd_syncmode="0" lspd_denominator="4" x100="0" amt="0" lamt="0" ctlenvamt="0" latt="0" userwavefile="" lspd="0.1" rel="0.1" lpdel="0" lspd_numerator="4" lshp="0"/>
+            <elres att="0" hold="0.5" sustain="0.5" dec="0.5" pdel="0" lspd_syncmode="0" lspd_denominator="4" x100="0" amt="0" lamt="0" ctlenvamt="0" latt="0" userwavefile="" lspd="0.1" rel="0.1" lpdel="0" lspd_numerator="4" lshp="0"/>
+          </eldata>
+          <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+          <arpeggiator arpgate="100" arpcycle="0" arptime_syncmode="0" arpmode="0" arprange="1" arptime_denominator="4" arptime="100" arp="0" arpskip="0" arpmiss="0" arp-enabled="0" arptime_numerator="4" arpdir="0"/>
+          <midiport inputchannel="0" writable="0" outputcontroller="0" basevelocity="127" fixedinputvelocity="-1" fixedoutputvelocity="-1" inputcontroller="0" outputchannel="1" fixedoutputnote="-1" outputprogram="1" readable="0"/>
+          <fxchain numofeffects="0" enabled="0"/>
+        </instrumenttrack>

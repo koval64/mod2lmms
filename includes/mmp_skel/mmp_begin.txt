@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.2.1" version="1.0" type="song" creator="LMMS">
+  <head timesig_numerator="4" masterpitch="0" timesig_denominator="4" mastervol="100">
+    <bpm scale_type="linear" value="100" id="5506054"/>
+  </head>
+  <song>
+    <trackcontainer height="756" y="5" width="1241" maximized="1" x="6" visible="1" type="song" minimized="0">

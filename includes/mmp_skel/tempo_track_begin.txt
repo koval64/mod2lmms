@@ -1,0 +1,3 @@
+      <track name="Automation track" solo="0" type="5" muted="0">
+        <automationtrack/>
+
